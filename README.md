@@ -8,6 +8,3 @@ Tech Stack
 - Turtle Graphics
 - colorsys
 
-How to Run
-```bash
-python main.py
